@@ -1,8 +1,8 @@
-#!/usr/bin/python3
-"""Typing Python Project."""
+#!/usr/bin/env python3
+"""Typing project."""
 from typing import Tuple, Union
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
-    """A union of Int or Float."""
+    """Pass an union in typing"""
     return k, v ** 2

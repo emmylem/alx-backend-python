@@ -1,6 +1,5 @@
-#!/usr/bin/python3
-"""Typing Python Project."""
-
+#!/usr/bin/env python3
+"""Typing project."""
 
 a: int = 1
 pi: float = 3.14
